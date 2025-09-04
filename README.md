@@ -29,3 +29,23 @@ Here’s a practical example of how the prompt guides a student with a common bu
 ## 📂 Repository Structure
 
 The repository is organized to clearly separate the prompt, its reasoning, and concrete examples.
+
+```text
+FOSSEE_Task2/
+│
+├── AI_Debugging_Prompt(Natural Language).md       # Human-readable AI prompt
+├── AI_Debugging_Prompt.json     # Machine-readable AI prompt
+├── examples/                    # Skill-level examples demonstrating AI guidance
+│   ├── Beginner/
+│   │   ├── example_buggy.py
+│   │   ├── example1_hints(ai).md
+│   ├── intermediate/
+│   │   ├── example1_buggy.py
+│   │   └── example1_hints(ai).md
+│   └── advanced/
+│       ├── example1_buggy.py
+│       └── example1_hints(ai).md
+├── Socratic_AI(Research).pdf  # 10-page detailed rationale
+└── LICENSE                      # MIT License
+
+```
