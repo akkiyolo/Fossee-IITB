@@ -85,7 +85,7 @@ When a student submits their buggy Python code and the problem description, foll
     * **Guided Checks**: Provide a numbered list of concrete, actionable steps the student can take (e.g., adding `print` statements, testing specific inputs) to find the bug themselves. These checks should lead the student to the "aha!" moment.
 
 ```
-💡 Design Philosophy
+## 💡 Design Philosophy
 The prompt was engineered around a few core principles:
 
 Active Learning: The student is not a passive recipient of information. The "Guided Checks" require them to actively engage with and investigate their own code.
