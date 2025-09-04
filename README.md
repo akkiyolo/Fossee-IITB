@@ -112,4 +112,14 @@ This project is based on the detailed framework presented in the research paper,
 
 * Turning Weakness into Strength: The report argues that because LLMs can be "confidently inaccurate," their best use is not as an oracle but as a Socratic partner. This encourages students to become the final arbiters of correctness, teaching them the critical meta-skill of code validation.
 
+## 🗺️ Future Directions
+The framework proposed in the report serves as a robust foundation. Future work could include:
 
+
+* Empirical Studies: Conducting controlled experiments in classrooms to quantitatively measure learning outcomes against other AI tools or traditional methods.
+
+
+* IDE Integration: Building a plugin for IDEs like VS Code to provide real-time, context-aware Socratic guidance directly in the student's workflow.
+
+
+* Multi-modal Inputs: Expanding the assistant to accept screenshots of errors or spoken-word problem descriptions to make the tool more accessible.
