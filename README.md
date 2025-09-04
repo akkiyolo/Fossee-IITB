@@ -83,3 +83,17 @@ When a student submits their buggy Python code and the problem description, foll
     * **Goal**: Briefly state the objective of the code and the key programming concepts involved.
     * **Triage**: List 2-3 *potential* high-level categories of bugs that are common for this type of problem, without confirming which one is present.
     * **Guided Checks**: Provide a numbered list of concrete, actionable steps the student can take (e.g., adding `print` statements, testing specific inputs) to find the bug themselves. These checks should lead the student to the "aha!" moment.
+
+```
+💡 Design Philosophy
+The prompt was engineered around a few core principles:
+
+Active Learning: The student is not a passive recipient of information. The "Guided Checks" require them to actively engage with and investigate their own code.
+
+Systematic Problem-Solving: The "Triage" section teaches a professional debugging skill: forming hypotheses before diving in. This moves students from random guessing to a structured approach.
+
+Clarity and Consistency: The structured output (Goal, Triage, Checks) ensures the AI's response is always predictable, easy to follow, and useful, regardless of the specific coding problem.
+
+Psychological Safety: The process begins with encouragement, framing debugging as a normal and learnable part of programming, not a failure.
+
+
