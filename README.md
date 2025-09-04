@@ -49,7 +49,7 @@ FOSSEE-IITB/
 │   └── advanced/
 │       ├── example1_buggy.py
 │       └── example1_hints(ai).md
-├── Socratic_AI(Research).pdf  # 10-page detailed rationale
+├── Socratic_AI(Research).pdf  # 15-page detailed rationale
 └── LICENSE                      # MIT License
 
 ```
