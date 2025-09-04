@@ -102,27 +102,13 @@ This project is based on the detailed framework presented in the research paper,
 
 "A Pedagogically-Informed Prompting Framework for a Socratic AI Debugging Assistant". Key highlights from the report include:
 
-
 * The Pedagogical Problem: The report identifies that standard LLMs undermine learning by providing direct solutions. It also addresses the significant cognitive and emotional hurdles novices face when debugging, such as frustration and a sense of failure.
-
-
 
 * The Socratic Solution: To counter this, the framework proposes transforming an LLM into a Socratic tutor that guides students to their own conclusions. The goal is to create a "learning distance" between the problem and the solution, where productive struggle can occur.
 
-
-
-
 * Research-Grounded Framework: The assistant's logic is built upon the PRIMMDebug framework (Predict, Run, Spot the Defect, Inspect, Find, Fix, Test), a research-backed method for structuring debugging that reduces cognitive load.
 
-
-
-* Advanced Prompt Engineering: The prompt uses a combination of techniques, including Role Prompting to create a patient tutor persona , internal 
-
-
-* Chain-of-Thought (CoT) for analyzing student code without revealing the analysis , and an 
-
-* Adaptability Framework to adjust its questioning for novice versus advanced learners.
-
+* Advanced Prompt Engineering: The prompt uses a combination of techniques, including Role Prompting to create a patient tutor persona , internal Chain-of-Thought (CoT) for analyzing student code without revealing the analysis , and an Adaptability Framework to adjust its questioning for novice versus advanced learners.
 
 * Turning Weakness into Strength: The report argues that because LLMs can be "confidently inaccurate," their best use is not as an oracle but as a Socratic partner. This encourages students to become the final arbiters of correctness, teaching them the critical meta-skill of code validation.
 
