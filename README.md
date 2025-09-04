@@ -97,6 +97,29 @@ Clarity and Consistency: The structured output (Goal, Triage, Checks) ensures th
 
 Psychological Safety: The process begins with encouragement, framing debugging as a normal and learnable part of programming, not a failure.
 
+## 🛠️ Setup and Usage
+* This project is a framework, not a standalone application. To use it, you will need access to a Large Language Model (LLM) that allows for detailed initial instructions (e.g., ChatGPT, Gemini, Claude).
+
+* Initialize the Tutor: Copy the full text from AI_Debugging_Prompt(Natural Language).md and paste it as the first message to your chosen LLM. This action sets the AI's persona, its rules, and its Socratic methodology.
+
+* Submit Your Code: In a new message, provide the buggy Python code you want to debug. Also, briefly explain the code's intended purpose and the error you are observing.
+
+
+* Engage in the Dialogue: The AI will not provide a direct fix. Instead, it will respond with a structured set of hints to guide you. Follow its "Guided Checks" and report your findings to continue the dialogue. The goal is for you to discover and implement the solution yourself.
+
+## ⚖️ Reasoning Behind the Framework
+The design of this framework is grounded in established pedagogical research to create an effective and safe learning environment.
+
+* Fostering Independent Problem-Solving: Standard LLMs often provide immediate solutions, which can hinder the development of a student's critical thinking skills. This framework intentionally constrains the AI to act as a Socratic guide, creating a "learning distance" between the problem and its solution where productive struggle and discovery can occur.
+
+* Addressing Psychological Hurdles: Debugging can cause significant frustration and a sense of personal failure in novice programmers. The prompt engineers a patient and encouraging AI persona to mitigate these negative emotions and foster a positive "error culture" where mistakes are viewed as valuable learning opportunities.
+
+* Structured Scaffolding: To manage the high cognitive load associated with debugging , the framework's logic is based on the research-backed 
+
+* PRIMMDebug protocol. This structured process (Predict, Run, Spot the Defect, Inspect, Find, Fix, Test) breaks the complex task into manageable steps, preventing cognitive overload and building effective habits.
+
+* Advanced and Safe Implementation: The prompt uses advanced engineering techniques to ensure pedagogical integrity.
+
 ## 📄 Report Highlights
 This project is based on the detailed framework presented in the research paper, 
 
