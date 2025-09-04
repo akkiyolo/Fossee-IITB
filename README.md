@@ -31,7 +31,7 @@ Here’s a practical example of how the prompt guides a student with a common bu
 The repository is organized to clearly separate the prompt, its reasoning, and concrete examples.
 
 ```text
-FOSSEE_Task2/
+FOSSEE-IITB/
 │
 ├── AI_Debugging_Prompt(Natural Language).md       # Human-readable AI prompt
 ├── AI_Debugging_Prompt.json     # Machine-readable AI prompt
