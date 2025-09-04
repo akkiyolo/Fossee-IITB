@@ -2,6 +2,7 @@
 
 <img width="600" height="230" alt="image" src="https://github.com/user-attachments/assets/d5e2f8ba-3cb0-4ed9-9801-66d0fb4f8bd5" />
 
+</br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
