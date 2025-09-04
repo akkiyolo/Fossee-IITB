@@ -103,9 +103,7 @@ This project is based on the detailed framework presented in the research paper,
 "A Pedagogically-Informed Prompting Framework for a Socratic AI Debugging Assistant". Key highlights from the report include:
 
 
-* The Pedagogical Problem: The report identifies that standard LLMs undermine learning by providing direct solutions. It also addresses the significant 
-
-cognitive and emotional hurdles novices face when debugging, such as frustration and a sense of failure.
+* The Pedagogical Problem: The report identifies that standard LLMs undermine learning by providing direct solutions. It also addresses the significant cognitive and emotional hurdles novices face when debugging, such as frustration and a sense of failure.
 
 
 
