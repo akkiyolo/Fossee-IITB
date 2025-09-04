@@ -1,6 +1,6 @@
 # The Socratic Debugger: An AI Prompt for Guided Learning 🧠
 
-<img width="600" height="230" alt="image" src="https://github.com/user-attachments/assets/d5e2f8ba-3cb0-4ed9-9801-66d0fb4f8bd5" />
+<img width="600" height="230" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZKNTsSs6ujH6-0NfrCe1hgBq3WGZbE32lA&s" />
 
 </br>
 
