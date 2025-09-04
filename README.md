@@ -84,7 +84,7 @@ When a student submits their buggy Python code and the problem description, foll
     * **Triage**: List 2-3 *potential* high-level categories of bugs that are common for this type of problem, without confirming which one is present.
     * **Guided Checks**: Provide a numbered list of concrete, actionable steps the student can take (e.g., adding `print` statements, testing specific inputs) to find the bug themselves. These checks should lead the student to the "aha!" moment.
 ```
-<\details>
+</details>
 
 ## 💡 Design Philosophy
 The prompt was engineered around a few core principles:
